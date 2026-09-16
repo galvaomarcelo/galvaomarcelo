@@ -17,11 +17,9 @@ GeoAI · Computer Vision · Remote Sensing — applying intelligent methods to s
 
 - 🐄 **Drone & Computer Vision** — Automatic cattle counting from aerial images, with future expansion to vegetation analysis and pasture quality.
 
-- 🏙️ **[GeoAR](https://github.com/galvaomarcelo/GeoAR)** — Geospatially aware augmented reality, highlighting objects and buildings more than 1 km away. Research developed at TU Wien.
-  — [Paper](https://doi.org/10.1080/13658816.2024.2355326) · [Code](https://osf.io/sur6q/overview)
+- 🏙️ **[GeoAR](https://github.com/galvaomarcelo/GeoAR)** — A robust framework for outdoor augmented reality with accurate geographic alignment, anchoring virtual content to real-world coordinates up to 1 km away. Research developed at TU Wien.
 
 - 🗺️ **[Route Map Schematization](https://github.com/galvaomarcelo/Route-NetworkSchematization)** — A generalization algorithm for road maps that schematizes both a car route and its surrounding street network using ILP, keeping topological correctness while improving route readability.
-  — [Paper](https://doi.org/10.1080/15230406.2022.2125077) · [Code](https://osf.io/vc3kw/overview)
 
 
 ### 🛠️ Technologies
