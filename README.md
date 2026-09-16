@@ -15,7 +15,7 @@ GeoAI · Computer Vision · Remote Sensing — applying intelligent methods to s
 
 - 🌾 **[Fazenda Ativa](https://github.com/galvaomarcelo/fazenda-ativa-showcase)** — Smart management app for rural properties: maps, finances, operations, and AI — working offline in the field.
 
-- 🐄 **Drone & Computer Vision** — Automatic cattle counting from aerial images, with future expansion to vegetation analysis and pasture quality.
+- 🐄 **[Drone & Computer Vision](https://github.com/galvaomarcelo/cattle-vision)** — On going project! Automatic cattle counting from aerial images, with future expansion to vegetation analysis and pasture quality.
 
 - 🏙️ **[GeoAR](https://github.com/galvaomarcelo/GeoAR)** — A robust framework for outdoor augmented reality with accurate geographic alignment, anchoring virtual content to real-world coordinates up to 1 km away. Research developed at TU Wien.
 
