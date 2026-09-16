@@ -27,9 +27,15 @@ GeoAI · Computer Vision · Remote Sensing — applying intelligent methods to s
 
 ### 🚀 Featured projects
 
-- 🌾 **[Fazenda Ativa](https://github.com/galvaomarcelo/fazenda-ativa-showcase)** — smart management app for rural properties: maps, finances, operations, and AI, working offline in the field.
-- 🐄 **Drone & Computer Vision** — automatic cattle counting from aerial images, with future expansion to vegetation analysis and pasture quality.
-- 🏙️ **[GeoAR](https://github.com/galvaomarcelo/geoar)** — geospatially aware augmented reality, highlighting objects and buildings more than 1 km away. Research developed at TU Wien.
+- 🌾 **[Fazenda Ativa](https://github.com/galvaomarcelo/fazenda-ativa-showcase)** — Smart management app for rural properties: maps, finances, operations, and AI — working offline in the field.
+
+- 🐄 **Drone & Computer Vision** — Automatic cattle counting from aerial images, with future expansion to vegetation analysis and pasture quality.
+
+- 🏙️ **[GeoAR]([https://github.com/galvaomarcelo/geoar](https://github.com/galvaomarcelo/GeoAR))** — Geospatially aware augmented reality, highlighting objects and buildings more than 1 km away. Research developed at TU Wien.
+  — [Paper](https://doi.org/10.1080/13658816.2024.2355326) · [Code](https://osf.io/sur6q/overview)
+
+- 🗺️ **[Route Map Schematization]([https://github.com/galvaomarcelo/route-schematization](https://github.com/galvaomarcelo/Route-NetworkSchematization))** — A generalization algorithm for road maps that schematizes both a car route and its surrounding street network using ILP, keeping topological correctness while improving route readability.
+  — [Paper](https://doi.org/10.1080/15230406.2022.2125077) · [Code](https://osf.io/vc3kw/overview)
 
 ### 📄 Research
 
